@@ -1,0 +1,25 @@
+{
+  "name": "power-up",
+  "version": "0.0.1",
+  "description": "A sample Trello Power-Up that can be used as a starting point for your own awesome Power-Up.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "compression": "1.6.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3",
+    "jQuery": "^1.7.4"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}

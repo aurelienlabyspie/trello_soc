@@ -1,0 +1,14 @@
+.list-group-item{
+  padding: 0px;
+}
+
+.list-group-item,.checkbox{
+  margin : 3px;
+}
+
+ul .row:nth-of-type(odd){
+  background-color:rgb(240,235,240);
+}
+ul .row:nth-of-type(even){
+  background-color:rgb(250,250,250);
+}

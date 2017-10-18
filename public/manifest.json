@@ -1,0 +1,27 @@
+{
+  "name": "Spie OC Sample",
+  "details":"Spie OC tests ...",
+  "icon": {
+    "url": "https://cdn.glitch.com/092e43e1-eb95-4896-87ec-c25ca465e3af%2Flogo.png?1502358348233"
+  },
+  "author": "Trello Inc",
+  "capabilities": [
+    "authorization-status",
+    "attachment-sections",
+    "attachment-thumbnail",
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "card-from-url",
+    "format-url",
+    "show-authorization",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
